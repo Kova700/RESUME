@@ -17,13 +17,12 @@
 
 ### BookChat
 <img width="70" height="70" alt="bookchat_app_icon" src="https://github.com/Kova700/RESUME/assets/81726145/21bc5702-fb01-4f60-8724-45b888d77cf7"> <br>
-<img width="70%" height="70%" alt="bookchat_introduce" src="https://github.com/Kova700/RESUME/assets/81726145/b3592d69-ed2c-43d9-983b-c915d9a1e9ce"> <br>
-
+<img width="70%" height="70%" alt="bookchat_introduce" src="https://github.com/Kova700/RESUME/assets/81726145/111b59da-19ed-4666-b260-cac748fed015"> <br>
 책을 같이 스터디할 수 있는 환경이 필요한 사용자, <br>
 책에 대한 자신의 생각을 다른 사람들과 나누고 싶은 사용자들이 모여 <br>
 책에 대해 토론 혹은 질문을 채팅으로 나눌 수 있는 어플리케이션입니다.
 
-- 소개 : 도서 오픈채팅 플랫폼
+- 소개 : 도서 커뮤니티 플랫폼
 - 기간 : 2022.09 - 진행 중
 - 언어 : Kotlin
 - 역할 : Android App 개발(100%)
@@ -37,9 +36,10 @@
   - Stomp프로토콜을 이용한 오픈채팅방 기능 (안정화 작업 중)
   - 채팅방에 주요했던 채팅을 기록할 수 있는 채팅 스크랩 기능 (개발 중)
 - 관련 기술
-  - `Android`, `MVVM`, `Data Binding`, `Pager3`, `Room`, `Hilt`,
-  - `DataStore`, `OAuth`, `OIDC`, `Stomp`, `Retrofit2`, `OkHttp3`,
-  - `LiveData`, `Coroutines`, `FCM`, `Flow`, `ViewModel`, `Glide`
-  - `List Adapter`, `AAC`, `krossbow`, `FlexBox`, `Shimmer`, `JetPack`
+  - `Android`, `MVVM`, `Data Binding`,  `Room`, `Hilt`,
+  - `Pager3`, `RemoteMediator`, `List Adapter`, `LiveData`, `Flow`
+  - `DataStore`, `OAuth`, `OIDC`, `Stomp`, `WebSocket`,`Retrofit2`, `OkHttp3`,
+  - `Coroutines`, `FCM`, `ViewModel`, `Glide`, `AAC`,   `JetPack`
+  - `krossbow`, `FlexBox`, `Shimmer`,
 - Repository : [Kova700/BookChat_Android](https://github.com/Kova700/BookChat_Android)
 - Google Play Store : 출시 준비 중 
