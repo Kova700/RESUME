@@ -1,17 +1,22 @@
 ## RESUME
 
 안녕하세요! 안드로이드 개발자 강병국입니다. <br>
-좋은 코드가 무엇인지 고민하고, 그 결과가 프로젝트에 잘 녹아들었을 때, 희열을 많이 느낍니다. <br>
-안드로이드에 국한되지 않고, 프로젝트 전반적으로 좋은 구조를 가져가려면 어떻게 해야하는지  <br>
+
+```
+좋은 코드가 무엇인지 고민하고, 그 결과가 프로젝트에 잘 녹아들었을 때, 희열을 많이 느낍니다.
+안드로이드에 국한되지 않고, 프로젝트 전반적으로 좋은 구조를 가져가려면 어떻게 해야하는지
 팀원과 같이 고민하는 것을 좋아합니다.
+```
+
 - Email:   blak1002@gmail.com
 - GitHub:  [github.com/Kova700](https://github.com/Kova700)
-
+- Language: `Kotlin`, `Java`
+- Algorithm_study: [Link](https://github.com/Kova700/Algorithm_Kotlin)
+ 
 ## **Educations**
 
 - 울산과학대학교 IT응용기술학부 소프트웨어 개발전공 (2018.03 ~ 2023.02)
 - 매곡고등학교 졸업 (2014.03 ~ 2017.02)
-
 
 ## **Projects**
 
@@ -36,10 +41,11 @@
   - Stomp프로토콜을 이용한 오픈채팅방 기능 (안정화 작업 중)
   - 채팅방에 주요했던 채팅을 기록할 수 있는 채팅 스크랩 기능 (개발 중)
 - 관련 기술
-  - `Android`, `MVVM`, `Data Binding`,  `Room`, `Hilt`,
-  - `Pager3`, `RemoteMediator`, `List Adapter`, `LiveData`, `Flow`
-  - `DataStore`, `OAuth`, `OIDC`, `Stomp`, `WebSocket`,`Retrofit2`, `OkHttp3`,
-  - `Coroutines`, `FCM`, `ViewModel`, `Glide`, `AAC`,   `JetPack`
-  - `krossbow`, `FlexBox`, `Shimmer`,
+  - `MVVM`, `Data Binding`, `Room`, `Hilt`, `Pager3`, 
+  - `RemoteMediator`, `List Adapter`, `LiveData`, `Flow`
+  - `DataStore`, `OAuth`, `OIDC`, [`Stomp`](https://stomp.github.io), `WebSocket`,
+  - [`Retrofit2`](https://github.com/square/retrofit), [`OkHttp3`](https://github.com/square/okhttp), `Coroutines`, `FCM`, `ViewModel`, 
+  - [`Glide`](https://github.com/bumptech/glide), `AAC`, `JetPack`, [`Krossbow`](https://github.com/joffrey-bion/krossbow), [`FlexBox`](https://github.com/google/flexbox-layout), [`Shimmer`](https://github.com/facebook/shimmer-android)
+  - [`SimpleRatingBar`](https://github.com/williamyyu/SimpleRatingBar), [`ImageCropper`](https://github.com/CanHub/Android-Image-Cropper), [`Gson`](https://github.com/google/gson)(수정 예정)
 - Repository : [Kova700/BookChat_Android](https://github.com/Kova700/BookChat_Android)
 - Google Play Store : 출시 준비 중 
