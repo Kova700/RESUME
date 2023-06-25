@@ -19,10 +19,9 @@
 - 매곡고등학교 졸업 (2014.03 ~ 2017.02)
 
 ## **Projects**
-
 ### BookChat
 <img width="70" height="70" alt="bookchat_app_icon" src="https://github.com/Kova700/RESUME/assets/81726145/21bc5702-fb01-4f60-8724-45b888d77cf7"> <br>
-<img width="70%" height="70%" alt="bookchat_introduce" src="https://github.com/Kova700/RESUME/assets/81726145/111b59da-19ed-4666-b260-cac748fed015"> <br>
+<img width="70%" height="70%" alt="bookchat_introduce" src="https://github.com/Kova700/RESUME/assets/81726145/3e4610d5-df0e-4652-92f5-3cb424bae6b5"> <br>
 책을 같이 스터디할 수 있는 환경이 필요한 사용자, <br>
 책에 대한 자신의 생각을 다른 사람들과 나누고 싶은 사용자들이 모여 <br>
 책에 대해 토론 혹은 질문을 채팅으로 나눌 수 있는 어플리케이션입니다.
